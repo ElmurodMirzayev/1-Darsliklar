@@ -50,7 +50,7 @@ class Car:
         self.benzin += miqdor
 
     def __dict__(self):
-        
+        pass
             
 
 car1 = Car("qora", 2005, "128 000 so'm", "Lasetti", 200)
